@@ -49,11 +49,11 @@ Merhaba! Ben **Mehmet** ama herkes bana **Mali** der. **Reawen Development** şi
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reawengoat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reawengoat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reawengoat&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
 </div>
 
@@ -84,7 +84,7 @@ const mali = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/GITHUB_USERNAME/REPO_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=reawengoat&repo=reawengoat&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/reawengoat/reawengoat)
 
 </div>
 
@@ -115,7 +115,7 @@ const mali = {
 
 ## 🎨 Aktivite Grafiği
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reawengoat&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F)
 
 ---
 
@@ -123,7 +123,7 @@ const mali = {
 
 ### ⚡ *"Harika şeyler yaratmak için kod yazıyorum"* ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=reawengoat&color=F85D7F&style=for-the-badge)
 
 **💖 Açık kaynak projelerine katkıda bulunmayı seviyorum!**
 
