@@ -69,11 +69,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=reawengoat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reawengoat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff)](https://github.com/reawengoat)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=reawengoat&theme=dark&hide_border=true&background=000000&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=reawengoat&theme=dark&hide_border=true&background=000000&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc&sideLabels=bb86fc&dates=ffffff)](https://github.com/reawengoat)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reawengoat&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&text_color=ffffff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reawengoat&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&text_color=ffffff)](https://github.com/reawengoat)
 
 </div>
 
@@ -130,7 +130,19 @@ console.log(mali.getCurrentMission());
 
 ## ⚡ ACTIVITY PULSE
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=reawengoat&theme=high-contrast&hide_border=true&bg_color=000000&color=bb86fc&line=bb86fc&point=ffffff&area=true&area_color=bb86fc)
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════╗
+║  📊 CONTRIBUTION MATRIX                      ║
+║  ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  🔥 Streak alive and burning...              ║
+╚═══════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reawengoat&theme=high-contrast&hide_border=true&bg_color=000000&color=bb86fc&line=bb86fc&point=ffffff&area=true&area_color=bb86fc" width="100%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
@@ -184,5 +196,22 @@ console.log(mali.getCurrentMission());
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⚡%20REAWEN%20⚡&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+
+```ascii
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║     ⚡ ██████╗ ███████╗ █████╗ ██╗    ██╗███████╗███╗   ██╗ ⚡    ║
+║        ██╔══██╗██╔════╝██╔══██╗██║    ██║██╔════╝████╗  ██║       ║
+║        ██████╔╝█████╗  ███████║██║ █╗ ██║█████╗  ██╔██╗ ██║       ║
+║        ██╔══██╗██╔══╝  ██╔══██║██║███╗██║██╔══╝  ██║╚██╗██║       ║
+║        ██║  ██║███████╗██║  ██║╚███╔███╔╝███████╗██║ ╚████║       ║
+║        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝       ║
+║                                                   ║
+║           🏴 DEVELOPMENT • DESIGN • DEPLOY 🏴          ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
+
+**⚡ Powered by darkness and caffeine ⚡**
+
 </div>
