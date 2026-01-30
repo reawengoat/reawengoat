@@ -130,7 +130,7 @@ console.log(mali.getCurrentMission());
 
 ## ⚡ ACTIVITY PULSE
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=high-contrast&hide_border=true&bg_color=000000&color=bb86fc&line=bb86fc&point=ffffff&area=true&area_color=bb86fc)
+![](https://github-readme-activity-graph.vercel.app/graph?username=reawengoat&theme=high-contrast&hide_border=true&bg_color=000000&color=bb86fc&line=bb86fc&point=ffffff&area=true&area_color=bb86fc)
 
 ---
 
