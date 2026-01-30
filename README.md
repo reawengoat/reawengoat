@@ -69,11 +69,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=reawengoat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=dark&hide_border=true&background=000000&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc)
+![](https://github-readme-streak-stats.herokuapp.com/?user=reawengoat&theme=dark&hide_border=true&background=000000&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reawengoat&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&text_color=ffffff)
 
 </div>
 
@@ -130,7 +130,7 @@ console.log(mali.getCurrentMission());
 
 ## ⚡ ACTIVITY PULSE
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=reawengoat&theme=high-contrast&hide_border=true&bg_color=000000&color=bb86fc&line=bb86fc&point=ffffff&area=true&area_color=bb86fc)
+![](https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=high-contrast&hide_border=true&bg_color=000000&color=bb86fc&line=bb86fc&point=ffffff&area=true&area_color=bb86fc)
 
 ---
 
@@ -163,15 +163,21 @@ console.log(mali.getCurrentMission());
 └──────────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=reawengoat&color=blueviolet&style=flat-square&label=VISITORS)
+<img src="https://img.shields.io/badge/👁️_WATCHING-000000?style=for-the-badge&logoColor=bb86fc" alt="eyes"/>
+<img src="https://img.shields.io/badge/⚡_ACTIVE-000000?style=for-the-badge&logoColor=bb86fc" alt="status"/>
+<img src="https://img.shields.io/badge/🌙_NIGHT_MODE-000000?style=for-the-badge&logoColor=bb86fc" alt="mode"/>
 
 **🖤 Open source enthusiast • Night coder • Digital artist 🖤**
 
+```ascii
+╔════════════════════════════════════════╗
+║  > mali@reawen:~$ exit                ║
+║  > Connection terminated...           ║
+║  > See you in the shadows... 🌑       ║
+╚════════════════════════════════════════╝
 ```
-> mali@reawen:~$ exit
-> Connection terminated...
-> See you in the shadows... 🌑
-```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 </div>
 
