@@ -69,11 +69,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reawengoat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff)](https://github.com/reawengoat)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reawengoat&theme=dark&hide_border=true&background=000000&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc&sideLabels=bb86fc&dates=ffffff)](https://github.com/reawengoat)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reawengoat&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=bb86fc&text_color=ffffff)](https://github.com/reawengoat)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reawengoat&show_icons=true&theme=radical)
 
 </div>
 
